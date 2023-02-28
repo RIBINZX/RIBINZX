@@ -1,4 +1,4 @@
-### Hi i'm RIBINZX 👋
+### Hi i'm RIBIN 👋
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++im+RIBINZX;Welcome+to+my+profile;full+stack+developer)](https://git.io/typing-svg)
 #### TOTAL REPO VIEWS📍
@@ -6,7 +6,7 @@
 
 <img src=https://i.ibb.co/5WL2Y8j/photo-2022-09-16-09-17-48.jpg>
 
-# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm RIBINZX&nbsp;
+# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm RIBIN&nbsp;
 
 
 
