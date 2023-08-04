@@ -9,7 +9,7 @@
 <!-- <a href="https://medium.com/@Ribin😎" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Ribin😎" height="30" width="40" /></a>  -->
 <br>
 
-
+##
 
 
 
@@ -44,6 +44,8 @@ Hey there! I'm a tech enthusiast with a passion for crafting captivating web exp
 🎯 Goal: To leave a lasting impact on every project I undertake, exceeding expectations and elevating user experiences to new heights.
 
 Ready to embark on a journey of innovation together? Let's connect and transform ideas into reality! 💬</p>
+
+<br>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RIBINZX" alt="RIBINZX" /></a> </p>
