@@ -9,9 +9,9 @@
 # Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm RIBIN&nbsp;
 
 
-
+<!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RIBINZX&label=Profile%20views&color=0e75b6&style=flat" alt="RIBINZX" /> </p>
-
+-->
 <p>🚀 Highly Creative Web Developer 🎨 | Data-Driven 📊 | User-Centric UI/UX Designer 🌐
 
 Hey there! I'm a tech enthusiast with a passion for crafting captivating web experiences. Armed with a powerful skill set in HTML, CSS, JavaScript, Django, React, Python, and SQL, I bring dreams to life through innovative web applications.
