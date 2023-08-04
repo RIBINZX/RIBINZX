@@ -47,7 +47,7 @@ Ready to embark on a journey of innovation together? Let's connect and transform
 
 - 💬 Ask me about *ME*
 
-- 📫 How to reach me <a href="https://wa.me/918943915070"> *https://wa.me/91-------*<a/>
+- 📫 How to reach me *https://wa.me/918943915070*
 
 - ⚡️ Fun fact *I THINK IAM VERY POSITIVE*
 
