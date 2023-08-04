@@ -3,13 +3,13 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++im+RIBINZX;Welcome+to+my+profile;full+stack+developer)](https://git.io/typing-svg)
 
 ### Connect With Me
-<a href="https://twitter.com/muhd_ribin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pvanfas" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammad-ribin-0442aa253/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pvanfas" height="30" width="40" /></a>
-<a href="https://www.instagram.com/muhd_ribin/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pvanfas" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/@pvanfas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pvanfas" height="30" width="40" /></a>  -->
+<a href="https://twitter.com/muhd_ribin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ribin😎" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-ribin/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ribin😎" height="30" width="40" /></a>
+<a href="https://www.instagram.com/muhd_ribin/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ribin😎" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@Ribin😎" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Ribin😎" height="30" width="40" /></a>  -->
+<br>
 
 
-##
 
 
 
@@ -44,8 +44,6 @@ Hey there! I'm a tech enthusiast with a passion for crafting captivating web exp
 🎯 Goal: To leave a lasting impact on every project I undertake, exceeding expectations and elevating user experiences to new heights.
 
 Ready to embark on a journey of innovation together? Let's connect and transform ideas into reality! 💬</p>
-
-<br>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RIBINZX" alt="RIBINZX" /></a> </p>
